@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-data1 = np.loadtxt("20180817Delay_stability_vs_AC_25kS_1Hz_20min_001.txt")
+data1 = np.loadtxt("Stability-measurement.txt")
 x1 = data1[:,0]
 y1 = data1[:,1]
 
