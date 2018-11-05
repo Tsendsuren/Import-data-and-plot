@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-data1 = np.loadtxt("Stability-measurement.txt")
+data1 = np.loadtxt("Stability_measurement.txt")
 x1 = data1[:,0]
 y1 = data1[:,1]
 
